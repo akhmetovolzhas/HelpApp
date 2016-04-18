@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Helpapplogin2</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sing up</string>
+    <string name="wrong">Wrong password or E-mail</string>
+    <string name="nexttry">Please try again</string>
+    <string name="Name">Name</string>
+    <string name="passwordagin">Repeat your password</string>
+    <string name="date">Choose date of birth</string>
+</resources>
